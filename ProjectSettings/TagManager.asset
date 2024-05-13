@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProcessing
+  - Water
+  - UI
+  - Objectives
+  - Obstacles
+  - Ball
+  - BallSpawn
+  - Bar
+  - BallStop
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3116481057
+    locked: 0
+  - name: Holes
+    uniqueID: 817539731
+    locked: 0
+  - name: FrontObects
+    uniqueID: 3352926753
+    locked: 0
+  - name: FurthestFrontObjects
+    uniqueID: 1052235223
+    locked: 0

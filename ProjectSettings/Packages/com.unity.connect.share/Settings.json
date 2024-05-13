@@ -1,0 +1,26 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/src/z_personal_projects/Unity/Ice Cold Beer/Builds/0.29;C:/src/z_personal_projects/Unity/Ice Cold Beer/Builds/0.28;C:/src/z_personal_projects/Unity/Ice Cold Beer/Builds/0.27;C:/src/z_personal_projects/Unity/Ice Cold Beer/Builds/0.26;C:/src/z_personal_projects/Unity/Ice Cold Beer/Builds/0.25;C:/src/z_personal_projects/Unity/Ice Cold Beer/Builds/0.24;C:/src/z_personal_projects/Unity/Ice Cold Beer/Builds/0.23;C:/src/z_personal_projects/Unity/Ice Cold Beer/Builds/0.22;C:/src/z_personal_projects/Unity/Ice Cold Beer/Builds/0.21;C:/src/z_personal_projects/Unity/Ice Cold Beer/Builds/0.20\"}"
+            }
+        ]
+    }
+}
